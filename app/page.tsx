@@ -13,7 +13,7 @@ export default function Home() {
           // layout="fill"
           // objectFit="cover"
           // quality={100}
-          // alt="Background"
+            alt="Omelette on a plate foldeded with Salad inside. Sprinkled with pepper."
         />
       </div>
       <main className="relative z-10 p-10">
@@ -62,9 +62,9 @@ export default function Home() {
               <li className="pl-4">2-3 large eggs</li>
               <li className="pl-4">Salt, to taste</li>
               <li className="pl-4">Pepper, to taste</li>
-              <li className="pl-4">1 tablespoon of butter or oil</li>
+              <li className="pl-4">1 tablespoon of Butter or oil or Black Truffle oil</li>
               <li className="pl-4">
-                Optional fillings: cheese, diced vegetables, cooked meats, herbs
+                Optional fillings: Cheese, diced Vegetables, cooked Meats, herbs
               </li>
             </ul>
           </div>
