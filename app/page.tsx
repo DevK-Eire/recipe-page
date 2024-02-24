@@ -18,7 +18,7 @@ export default function Home() {
       </div>
       <main className="relative z-10 p-10">
         <div>
-        <h1 className="text-3xl md:text-5xl font-bold font-young-serif mt-5 text-dark-charcoal">Simple Omelett Recipe</h1>
+        <h1 className="text-3xl md:text-5xl font-bold font-young-serif mt-5 text-dark-charcoal">Simple Omelette Recipe</h1>
           <p className="text-wenge-brown mt-6 font-outfit">An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
           to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
           </div>
