@@ -44,6 +44,7 @@ Users should be able to:
 - NEXTJS
 - TypeScript
 - Mobile-first workflow
+  #### Note:Fixed the spelling mistake in the image
 
 ### Useful resources
 
